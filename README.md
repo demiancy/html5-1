@@ -6,6 +6,7 @@ Tutorial of https://www.youtube.com/watch?v=kN1XP-Bef7w
 2 spaces (no tabs) are used for indentation  
 Try not to use lines longer than 80 characters   
 \<h1\> should be used only once per page  
+In audio tag, the controls attribute is necessary  
 
 # Additional documentation 
 https://developers.google.com/style/html-formatting
