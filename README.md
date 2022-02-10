@@ -1,5 +1,5 @@
-# html5-1
-Tutorial of https://www.youtube.com/watch?v=kN1XP-Bef7w  
+# Tutorial Html 5
+Tutorial of HTML 5 (https://www.youtube.com/watch?v=kN1XP-Bef7w)  
 This tutorial seemed good to me to remember the concepts of html
 
 # Notes
